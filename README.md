@@ -29,10 +29,10 @@ Este projeto propõe o desenvolvimento de um **sistema para doação de sangue**
 
 ## 🔗 Links Importantes
 
-- 📄 [Lista de Usuários Sintéticos](#)  
-- ✍️ [Lista dos Prompts Utilizados para Geração de Usuários](#)  
-- 📊 [Tabela de Dados Extraídos com NotebookLM](#)  
-- 💬 [Tabela de Temas e Falas dos Usuários](#)  
+- 📄 [Lista de Usuários Sintéticos](https://github.com/Ihc-uem/SistemaDoacaoSangue/blob/main/usuario/listaUsuarios.md)  
+- ✍️ [Lista dos Prompts Utilizados para Geração de Usuários](https://github.com/Ihc-uem/SistemaDoacaoSangue/blob/main/usuario/prompts.md)  
+- 📊 [Tabela de Dados Extraídos com NotebookLM](https://github.com/Ihc-uem/SistemaDoacaoSangue/blob/main/analise/tabelaDadosExtraidos.md)  
+- 💬 [Tabela de Temas e Falas dos Usuários](https://github.com/Ihc-uem/SistemaDoacaoSangue/blob/main/analise/tabelaTemasFalas.md)  
 
 ---
 
