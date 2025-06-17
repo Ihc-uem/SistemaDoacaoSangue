@@ -1,6 +1,6 @@
 # Sistema para Doação de Sangue
 
-**Nível do Projeto:** Mestrado  
+**Nível do Projeto:** Mestrado  e Doutorado
 **Tema:** Desenvolvimento de um Sistema Focado na Doação de Sangue  
 **Abordagem:** Design Centrado no Usuário com Apoio de Tecnologias de IA
 
@@ -44,7 +44,7 @@ Este repositório poderá ser expandido com análises qualitativas, protótipos 
 
 ## 👩‍🔬 Autor(es)
 
-- Pesquisador(a) Doutorando(a) – Universidade Estadual de Maringá 
+- Pesquisador(a) Mestrando(a) e Doutorando(a) – Universidade Estadual de Maringá 
 - Contato: [marcelinovitorgarcia@email.com]  [andressasilva.0797@email.com]  
 
 ---
