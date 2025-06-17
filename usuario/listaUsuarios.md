@@ -1,0 +1,12 @@
+
+- 👩‍⚕️ [Letícia Martins (Universitária - Enfermagem)](#)
+- 🚗 [Roberto Lima (Motorista de Aplicativo)](#)
+- 🛍️ [Patrícia Souza (Vendedora de Loja)](#)
+- 👨‍🏫 [Francisco Alves (Aposentado - Ex-Professor)](#)
+- 🎮 [Gabriel Santana (Atendente de Call Center)](#)
+- 🧑‍💻 [Thiago Ribeiro (Analista de Dados)](#)
+- 👵 [Marlene Costa (Dona de Casa)](#)
+- 🏥 [Aline Dias (Enfermeira - Hospital Público)](#)
+- 🧪 [Silvana Meireles (Técnica de Laboratório - Hemocentro)](#)
+- 💬 [Lucas Fernandes (Recepcionista - Posto de Coleta)](#)
+- 🩺 [Carlos Bavaresco (Médico - Responsável Técnico)](#)
