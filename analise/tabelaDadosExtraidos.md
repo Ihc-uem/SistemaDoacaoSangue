@@ -10,9 +10,9 @@
 | Roberto Lima       | 43    | Motorista de aplicativo                       | Nunca Doou             | Médio             |
 | Marlene Costa      | 58    | Dona de casa                                  | Doou Uma Vez           | Baixo             |
 | Francisco Alves    | 65    | Aposentado (ex-professor)                     | Ex-Doado               | Baixo             |
-| Silvana            | -     | Profissional do Hemocentro                    | Profissional da Área    | Médio             |
-| Lucas              | -     | Atendente de posto de coleta                  | Profissional da Área    | Médio             |
-| Aline              | -     | Enfermeira em um hospital público em Maringá  | Profissional da Área    | Médio             |
+| Silvana            | 45    | Profissional do Hemocentro                    | Profissional da Área    | Médio             |
+| Lucas              | 30    | Atendente de posto de coleta                  | Profissional da Área    | Médio             |
+| Aline              | 25    | Enfermeira em um hospital público em Maringá  | Profissional da Área    | Médio             |
 
 
 
