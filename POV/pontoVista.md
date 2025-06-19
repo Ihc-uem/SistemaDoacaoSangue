@@ -1,0 +1,7 @@
+## Ponto de Vista (POV) – Necessidades dos Usuários Sintéticos
+
+| 🧠 Necessidade | 👥 Quem tem essa necessidade | 💡 Insight |
+| :-------------- | :---------------------------- | :--------- |
+| Praticidade e facilidade no processo de doação. Desde buscar informações, agendar até realizar a doação. | Letícia, Lucas, Roberto, Patrícia, Francisco, Gabriel, Thiago, Marlene, P8, P9 | A rotina corrida e a percepção de burocracia são barreiras. Buscam soluções digitais intuitivas, com informações claras, agendamento facilitado e lembretes, que transformem a intenção de doar em ação, reduzindo atritos e otimizando o tempo. |
+| Conexão emocional e percepção do impacto real da doação. | Letícia, Lucas, Roberto, Patrícia, Francisco, Gabriel, Thiago, Marlene, P8, P9 | Saber que sua doação teve impacto real, como feedbacks ou conhecer histórias de quem foi beneficiado, torna o ato mais significativo. Isso gera um senso de responsabilidade pessoal, estimulando a continuidade da doação. |
+| Acolhimento e suporte humanizado. Reduzir medos e inseguranças ligados ao processo de doar. | Letícia, Lucas, Roberto, Patrícia, Francisco, Gabriel, Thiago, Marlene, P8, P9 | Medo de agulha, de mal-estar ou de não estar apto são comuns. Um ambiente acolhedor, com atendimento empático, informações sobre segurança e suporte pós-doação, ajuda a quebrar essas barreiras emocionais e tornar a experiência positiva. |
